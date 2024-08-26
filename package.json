@@ -1,0 +1,19 @@
+{
+  "name": "level-up-javascript",
+  "version": "1.0.0",
+  "description": "javascript-level-up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdiep79/level-up-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdiep79/level-up-javascript/issues"
+  },
+  "homepage": "https://github.com/jdiep79/level-up-javascript#readme"
+}
